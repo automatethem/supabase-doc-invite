@@ -1,1 +1,1 @@
-# supabase
+# supabase-invite
