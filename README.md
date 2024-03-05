@@ -1,8 +1,8 @@
 # supabase-doc-invite
 
-수파베이스 개발자 초대
+수파베이스 데이터 베이스 개발자 초대
 
-## https://supabase.com/ 에 접속합니다.
+## 수파베이스 데이터 베이스 https://supabase.com 에 접속합니다.
 
 ![](attach_files/1.png?raw=true)
 
