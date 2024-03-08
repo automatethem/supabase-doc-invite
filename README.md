@@ -10,6 +10,10 @@
 
 ## 프로젝트 만들기
 
+![](attach_files/1-2.PNG?raw=true)
+
+![](attach_files/1-3.PNG?raw=true)
+
 ## 조직에 개발자 초대
 
 로그인후 왼쪽 조직 을 누릅니다.
