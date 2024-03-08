@@ -29,3 +29,7 @@
 ## 관리자 페이지 세팅후 주소를 알려 드리겠습니다.
 
 ![](attach_files/5.PNG?raw=true)
+
+![](attach_files/6.PNG?raw=true)
+
+![](attach_files/7.PNG?raw=true)
