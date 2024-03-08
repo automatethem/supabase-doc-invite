@@ -25,3 +25,7 @@
 ![](attach_files/3.png?raw=true)
 
 ![](attach_files/4.png?raw=true)
+
+## 관리자 페이지 세팅후 주소를 알려 드리겠습니다.
+
+![](attach_files/5.PNG?raw=true)
