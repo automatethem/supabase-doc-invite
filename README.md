@@ -28,6 +28,9 @@
 
 ## 관리자 페이지 세팅후 주소를 알려 드리겠습니다.
 
+알려드린 관리자 페이지에 로그인 하셔서 사용하시면 됩니다.
+
+
 ![](attach_files/5.PNG?raw=true)
 
 ![](attach_files/6.PNG?raw=true)
